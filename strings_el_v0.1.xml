@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--information-->
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Μπέτα</string>
+    <string name="AppName">Τελεγκραμ</string>
+    <string name="AppNameBeta">Τελεγκραμ Μπέτα</string>
     <string name="LanguageName">Ελληνικά</string>
     <string name="English">Αγγλικά</string>
     <string name="LanguageNameInEnglish">Greek</string>
